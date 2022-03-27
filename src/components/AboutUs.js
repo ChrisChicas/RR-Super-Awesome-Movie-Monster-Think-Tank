@@ -1,5 +1,3 @@
-
-
 const AboutUs = () => {
     return (
         <div className="content-box">
